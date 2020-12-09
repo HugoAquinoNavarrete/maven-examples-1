@@ -3,7 +3,7 @@ package com.hgautam.examples;
 public class IPAddress {
 
     //Unused field
-    private int abc;
+    //private int abc;
 
     // Do not hard code the IP address
     private String ip = "127.0.0.1";
